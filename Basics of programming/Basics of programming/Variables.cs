@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Basics_of_programming
+namespace IJunior_Course
 {
     internal class Variables
     {
